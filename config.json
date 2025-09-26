@@ -1,6 +1,6 @@
 {
   "apiEndpoints": {
-    "accountInfo": "https://inquiryapi.boheco1.com:8447/api/get-account-by-account-number",
+    "accountInfo": "https://inquiryapi.boheco1.com:8447/api/get-account-by-account-numbe",
     "billingInfo": "https://inquiryapi.boheco1.com:8447/api/get-latest-bills",
     "printSOA": "https://inquiry.boheco1.com/client/print-soa"
   },
